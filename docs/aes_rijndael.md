@@ -39,20 +39,20 @@ Each column is transformed using a fixed matrix
 b_{0j} \\
 b_{1j} \\
 b_{2j} \\
-b_{3j} \\
+b_{3j}
 \end{pmatrix}
 =
 \begin{pmatrix}
 2 & 3 & 1 & 1 \\
 1 & 2 & 3 & 1 \\
 1 & 1 & 2 & 3 \\
-3 & 1 & 1 & 2 \\
+3 & 1 & 1 & 2
 \end{pmatrix}
 \begin{pmatrix}
 a_{0j} \\
 a_{1j} \\
 a_{2j} \\
-a_{3j} \\
+a_{3j}
 \end{pmatrix}
 \qquad 0 \leq j \leq 3
 ```
