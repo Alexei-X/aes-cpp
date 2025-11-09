@@ -4,7 +4,7 @@ project(aes-cpp VERSION 1.0.0)
 set(CMAKE_CXX_STANDARD 20)
 
 add_library(aes
-    src/aes.cpp
+    src/main.cpp
 )
 target_include_directories(aes PUBLIC include)
 
